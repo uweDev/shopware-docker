@@ -142,11 +142,13 @@ Access cerebro: http://cerebro.localhost
 
 ### Shopware
 
+/backend
 User: demo  
 Password: demo
 
 ### Shopware 6
 
+/admin
 User: admin  
 Password: shopware
 
